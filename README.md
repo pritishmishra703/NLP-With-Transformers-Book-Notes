@@ -47,7 +47,7 @@ This is a 10 Notebook series you can see the topics below. I will make the date 
 
   <tr>
     <td>Text Generation</td>
-    <td>P4_Multilingual_NMT.ipynb</td>
+    <td>P4_Text_Generation.ipynb</td>
     <td></td>
     <td style='text-align: center'></td>
   </tr>
@@ -55,13 +55,6 @@ This is a 10 Notebook series you can see the topics below. I will make the date 
   <tr>
     <td>Summarization</td>
     <td>P5_Summarization.ipynb</td>
-    <td></td>
-    <td style='text-align: center'></td>
-  </tr>
- 
-  <tr>
-    <td>Text Generation</td>
-    <td>P6_Multilingual_NMT.ipynb</td>
     <td></td>
     <td style='text-align: center'></td>
   </tr>
@@ -90,6 +83,13 @@ This is a 10 Notebook series you can see the topics below. I will make the date 
   <tr>
     <td>Training Transformers from Scratch</td>
     <td>P10_TransformerFromScratch.ipynb</td>
+    <td></td>
+    <td style='text-align: center'></td>
+  </tr>
+                                                                           
+  <tr>
+    <td>Future Directions</td>
+    <td>P11_Future_Directions.ipynb</td>
     <td></td>
     <td style='text-align: center'></td>
   </tr>
