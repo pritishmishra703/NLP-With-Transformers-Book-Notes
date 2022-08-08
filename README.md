@@ -61,35 +61,35 @@ This is a 10 Notebook series you can see the topics below. I will make the date 
 
   <tr>
     <td>Question Answering</td>
-    <td>P7_Question_Answering.ipynb</td>
+    <td>P6_Question_Answering.ipynb</td>
     <td></td>
     <td style='text-align: center'></td>
   </tr>
 
   <tr>
     <td>Making Transformers Efficient in Production</td>
-    <td>P8_TransformerEfficientInProduction.ipynb</td>
+    <td>P7_TransformerEfficientInProduction.ipynb</td>
     <td></td>
     <td style='text-align: center'></td>
   </tr>
 
   <tr>
     <td>Dealing with Few to No labels</td>
-    <td>P9_FewToNoLabels.ipynb</td>
+    <td>P8_FewToNoLabels.ipynb</td>
     <td></td>
     <td style='text-align: center'></td>
   </tr>
 
   <tr>
     <td>Training Transformers from Scratch</td>
-    <td>P10_TransformerFromScratch.ipynb</td>
+    <td>P9_TransformerFromScratch.ipynb</td>
     <td></td>
     <td style='text-align: center'></td>
   </tr>
                                                                            
   <tr>
     <td>Future Directions</td>
-    <td>P11_Future_Directions.ipynb</td>
+    <td>P10_Future_Directions.ipynb</td>
     <td></td>
     <td style='text-align: center'></td>
   </tr>
