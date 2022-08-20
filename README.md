@@ -33,7 +33,7 @@ This is a 10 Notebook series you can see the topics below. I will make the date 
   <tr>
     <td>Transformer Anatomy</td>
     <td>P2_TransformerAnatomy.ipynb</td>
-    <td>20-Aug-2022</td>
+    <td>26-Aug-2022</td>
     <td style='text-align: center'></td>
   </tr>
 
