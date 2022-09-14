@@ -5,7 +5,7 @@
 This repository contains both code and my notes from book <a href='https://www.amazon.com/Natural-Language-Processing-Transformers-Applications/dp/1098103246'>NLP with Transformers</a>. This book primarily uses HuggingFace 🤗, so if you want to get started with 
 HuggingFace or want to build some of the best Transformers models, this is a great place to start.
 
-This is a 10 Notebook series you can see the topics below. I will make the date available for the next notebook in advance.
+This is a 10 Notebook series you can see the topics below.
 
 <br>
 <table style="margin-left: auto; margin-right: auto;">
@@ -33,7 +33,7 @@ This is a 10 Notebook series you can see the topics below. I will make the date 
   <tr>
     <td>Transformer Anatomy</td>
     <td>P2_TransformerAnatomy.ipynb</td>
-    <td>26-Aug-2022</td>
+    <td></td>
     <td style='text-align: center'></td>
   </tr>
 
